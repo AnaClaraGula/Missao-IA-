@@ -15,7 +15,7 @@ export const perguntas = [
                  "Você procura diminuir a quantidade de resíduos produzidos no dia a dia.",
                  "Você busca fazer escolhas mais sustentáveis em suas compras."
                 ]
-            }    
+            },   
            
         ]
     },
@@ -36,7 +36,7 @@ export const perguntas = [
                         "Você acredita que o uso responsável dos recursos faz diferença.",
                         "Você procura adotar hábitos sustentáveis dentro de casa." 
                     ]
-                }    
+                },    
                
             ]
         },
@@ -49,7 +49,8 @@ export const perguntas = [
                     afirmacao: [
                         "Você valoriza e respeita a vida presente nos ambientes naturais.",
                         "Você acredita que cada pessoa deve ajudar a preservar os espaços naturais."
-                },
+                    ]
+                    },
                 {
                     texto:    "Levaria seu próprio recipiente e recolheria seus resíduos.",
                     afirmacao: [
